@@ -1,0 +1,3 @@
+﻿  actorLinkedList.c
+C:\Users\User\source\repos\Parsing\Parsing\actorLinkedList.c(301,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Parsing.vcxproj -> C:\Users\User\source\repos\Parsing\x64\Debug\Parsing.exe
